@@ -44,5 +44,11 @@
                 "Monospice\\LaravelRedisSentinel\\RedisSentinelServiceProvider"
             ]
         }
-    }
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/jardin-de-vicky/spicy-identifiers.git"
+        }
+    ]
 }
